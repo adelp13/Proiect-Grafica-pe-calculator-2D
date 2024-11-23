@@ -1,0 +1,27 @@
+﻿  D:freeglut.dll
+  D:glew32.dll
+  D:glew32s.dll
+  3 File(s) copied
+  D:glfw3.dll
+  D:glfw3dll.dll
+  D:glfw3_mt.dll
+  3 File(s) copied
+  D:SOIL.dll
+  1 File(s) copied
+  main.cpp
+D:\facultate\III\grafica\Proiect_2D\main.cpp(42,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\facultate\III\grafica\Proiect_2D\main.cpp(43,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\facultate\III\grafica\Proiect_2D\main.cpp(51,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\facultate\III\grafica\Proiect_2D\main.cpp(57,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\facultate\III\grafica\Proiect_2D\main.cpp(58,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\facultate\III\grafica\Proiect_2D\main.cpp(59,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\facultate\III\grafica\Proiect_2D\main.cpp(146,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\III\grafica\Proiect_2D\main.cpp(147,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\facultate\III\grafica\Proiect_2D\main.cpp(513,11): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+D:\facultate\III\grafica\Proiect_2D\main.cpp(513,11): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\facultate\III\grafica\Proiect_2D\main.cpp(751,31): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+D:\facultate\III\grafica\Proiect_2D\main.cpp(751,21): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+  Proiect_2D.vcxproj -> D:\facultate\III\grafica\Proiect_2D\x64\Debug\Proiect_2D.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied

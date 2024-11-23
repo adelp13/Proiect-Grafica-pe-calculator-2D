@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\facultate\\III\\grafica\\Proiect_2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|D:\\facultate\\III\\grafica\\Proiect_2D\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|D:\\facultate\\III\\grafica\\Proiect_2D\\shader1.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|solutionrelative:shader1.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|D:\\facultate\\III\\grafica\\Proiect_2D\\shader1.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|solutionrelative:shader1.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator3\\03_04_rotire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator3\\03_05_transformari_keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator3\\03_02_animatie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator2\\02_03_poligoane3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator4\\ex1_suplimentar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator4\\04_04_texturare.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator4\\ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator4\\04_04_Shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator4\\04_04_Shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator3\\03_02_Shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator3\\03_03_resize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\Proiect 2D\\04_02_Shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator3\\03_02_Shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\laborator4\\ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\facultate\\III\\grafica\\Proiect 2D\\04_02_Shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|D:\\facultate\\III\\grafica\\Proiect_2D\\example.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|solutionrelative:example.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|D:\\facultate\\III\\grafica\\Proiect_2D\\example.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5A0F2133-26E6-4CF4-BFD3-59EE1C144996}|Proiect_2D.vcxproj|solutionrelative:example.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 7,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\Proiect_2D\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\Proiect_2D\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAJkCAAAAAAAAAAAgwO0CAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T14:46:20.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "04_02_Shader.vert",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\Proiect 2D\\04_02_Shader.vert",
+              "RelativeDocumentMoniker": "..\\Proiect 2D\\04_02_Shader.vert",
+              "ToolTip": "D:\\facultate\\III\\grafica\\Proiect 2D\\04_02_Shader.vert",
+              "RelativeToolTip": "..\\Proiect 2D\\04_02_Shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T14:48:53.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03_02_animatie.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator3\\03_02_animatie.cpp",
+              "RelativeDocumentMoniker": "..\\laborator3\\03_02_animatie.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator3\\03_02_animatie.cpp",
+              "RelativeToolTip": "..\\laborator3\\03_02_animatie.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T10:28:50.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "02_03_poligoane3D.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator2\\02_03_poligoane3D.cpp",
+              "RelativeDocumentMoniker": "..\\laborator2\\02_03_poligoane3D.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator2\\02_03_poligoane3D.cpp",
+              "RelativeToolTip": "..\\laborator2\\02_03_poligoane3D.cpp",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T08:50:40.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03_04_rotire.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator3\\03_04_rotire.cpp",
+              "RelativeDocumentMoniker": "..\\laborator3\\03_04_rotire.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator3\\03_04_rotire.cpp",
+              "RelativeToolTip": "..\\laborator3\\03_04_rotire.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T13:52:41.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03_05_transformari_keyboard.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator3\\03_05_transformari_keyboard.cpp",
+              "RelativeDocumentMoniker": "..\\laborator3\\03_05_transformari_keyboard.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator3\\03_05_transformari_keyboard.cpp",
+              "RelativeToolTip": "..\\laborator3\\03_05_transformari_keyboard.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAHEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T08:51:59.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ex1_suplimentar.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator4\\ex1_suplimentar.cpp",
+              "RelativeDocumentMoniker": "..\\laborator4\\ex1_suplimentar.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator4\\ex1_suplimentar.cpp",
+              "RelativeToolTip": "..\\laborator4\\ex1_suplimentar.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-03T06:29:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shader1.frag",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\Proiect_2D\\shader1.frag",
+              "RelativeDocumentMoniker": "shader1.frag",
+              "ToolTip": "D:\\facultate\\III\\grafica\\Proiect_2D\\shader1.frag",
+              "RelativeToolTip": "shader1.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T14:47:44.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shader1.vert",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\Proiect_2D\\shader1.vert",
+              "RelativeDocumentMoniker": "shader1.vert",
+              "ToolTip": "D:\\facultate\\III\\grafica\\Proiect_2D\\shader1.vert",
+              "RelativeToolTip": "shader1.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T14:47:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "03_02_Shader.vert",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator3\\03_02_Shader.vert",
+              "RelativeDocumentMoniker": "..\\laborator3\\03_02_Shader.vert",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator3\\03_02_Shader.vert",
+              "RelativeToolTip": "..\\laborator3\\03_02_Shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T15:01:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "04_04_Shader.frag",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator4\\04_04_Shader.frag",
+              "RelativeDocumentMoniker": "..\\laborator4\\04_04_Shader.frag",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator4\\04_04_Shader.frag",
+              "RelativeToolTip": "..\\laborator4\\04_04_Shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T15:06:11.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "03_02_Shader.frag",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator3\\03_02_Shader.frag",
+              "RelativeDocumentMoniker": "..\\laborator3\\03_02_Shader.frag",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator3\\03_02_Shader.frag",
+              "RelativeToolTip": "..\\laborator3\\03_02_Shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T15:01:28.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "04_04_Shader.vert",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator4\\04_04_Shader.vert",
+              "RelativeDocumentMoniker": "..\\laborator4\\04_04_Shader.vert",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator4\\04_04_Shader.vert",
+              "RelativeToolTip": "..\\laborator4\\04_04_Shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T15:06:11.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "04_04_texturare.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator4\\04_04_texturare.cpp",
+              "RelativeDocumentMoniker": "..\\laborator4\\04_04_texturare.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator4\\04_04_texturare.cpp",
+              "RelativeToolTip": "..\\laborator4\\04_04_texturare.cpp",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAALwAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T15:06:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ex3.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator4\\ex3.cpp",
+              "RelativeDocumentMoniker": "..\\laborator4\\ex3.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator4\\ex3.cpp",
+              "RelativeToolTip": "..\\laborator4\\ex3.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T15:15:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "03_03_resize.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator3\\03_03_resize.cpp",
+              "RelativeDocumentMoniker": "..\\laborator3\\03_03_resize.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator3\\03_03_resize.cpp",
+              "RelativeToolTip": "..\\laborator3\\03_03_resize.cpp",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAAgBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T15:03:41.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "04_02_Shader.frag",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\Proiect 2D\\04_02_Shader.frag",
+              "RelativeDocumentMoniker": "..\\Proiect 2D\\04_02_Shader.frag",
+              "ToolTip": "D:\\facultate\\III\\grafica\\Proiect 2D\\04_02_Shader.frag",
+              "RelativeToolTip": "..\\Proiect 2D\\04_02_Shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T14:48:53.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ex2.cpp",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\laborator4\\ex2.cpp",
+              "RelativeDocumentMoniker": "..\\laborator4\\ex2.cpp",
+              "ToolTip": "D:\\facultate\\III\\grafica\\laborator4\\ex2.cpp",
+              "RelativeToolTip": "..\\laborator4\\ex2.cpp",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAwwH8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T14:50:59.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "example.vert",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\Proiect_2D\\example.vert",
+              "RelativeDocumentMoniker": "example.vert",
+              "ToolTip": "D:\\facultate\\III\\grafica\\Proiect_2D\\example.vert",
+              "RelativeToolTip": "example.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T14:48:57.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "example.frag",
+              "DocumentMoniker": "D:\\facultate\\III\\grafica\\Proiect_2D\\example.frag",
+              "RelativeDocumentMoniker": "example.frag",
+              "ToolTip": "D:\\facultate\\III\\grafica\\Proiect_2D\\example.frag",
+              "RelativeToolTip": "example.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T14:52:59.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
